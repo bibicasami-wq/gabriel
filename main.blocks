@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="IioaKB9T[78Y9;RUuWwz" x="398" y="-28"><field name="NAME">Button.B</field></block><block type="device_button_event" id="/|Qmz~fZOvxr(FjABry9" x="0" y="0"><field name="NAME">Button.A</field></block><block type="pxt-on-start" id="pEZ@nM#y*@mVACLQ8iMv" x="874" y="37"><statement name="HANDLER"><block type="device_show_leds" id="gsyIlP0:eIvS?RD{UsFx"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . # 
+        . # . . .
+        `</field></block></statement></block><block type="music_playable_play" id="qDm%c.:whdUveDKsWG8:" disabled-reasons="pxt_automatic_disabled" x="178" y="102"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="Y11mwqC4_|sE@Lfj]aZq" disabled-reasons="pxt_automatic_disabled"><value name="melody"><shadow type="melody_editor" id="9T4R5*aSW.6f0V9{I+^4" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="?)#RnK!x[:d4`Sav??Ma" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block><block type="basic_show_icon" id="Eo(Y5q111,;sNXY9sbjA" disabled-reasons="pxt_automatic_disabled" x="221" y="260"><field name="i">IconNames.Heart</field></block><block type="device_print_message" id="3AGOdoX$gl)9_/(Q5O`g" disabled-reasons="pxt_automatic_disabled" x="125" y="385"><value name="text"><shadow type="text" id="N*2T*atwA^XK-lm^4GIJ" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Hello!</field></shadow></value></block><block type="device_forever" id="f6EdR?#D;pGi0|=f4$tn" x="862" y="401"><statement name="HANDLER"><block type="device_show_leds" id="/S[o3;nit=w7T*V|1Ic}"><field name="LEDS">`
+        . . . . . 
+        . # . . # 
+        . . . . . 
+        . . . . . 
+        . . # # #
+        `</field></block></statement></block><block type="device_show_leds" id=",3k%N}r-kyX|-TJGy!1W" disabled-reasons="pxt_automatic_disabled" x="225" y="522"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . # # . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="music_string_playable" id="%yrv_HM-+.SB-yURDLr#" disabled-reasons="pxt_automatic_disabled" x="148" y="882"><value name="melody"><shadow type="melody_editor" id="Fl_[0u1|nO#Dzf_5MSHP" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="j/V]X-6fs$,QOKqVbEHf" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></xml>
